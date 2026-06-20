@@ -1,0 +1,29 @@
+{
+    "version": "0.9.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.9.1/zephyrlily_Windows_i386.zip",
+            "bin": [
+                "zlily.exe"
+            ],
+            "hash": "003bc5edb0688009904dc05659fdfea17495b0a6f517c9f76e691e14c8b65c14"
+        },
+        "64bit": {
+            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.9.1/zephyrlily_Windows_x86_64.zip",
+            "bin": [
+                "zlily.exe"
+            ],
+            "hash": "ad9eebfa6bc3a2176a962eb3baa75e96c2c37a5df783c743366276d81b64ffe2"
+        },
+        "arm64": {
+            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.9.1/zephyrlily_Windows_arm64.zip",
+            "bin": [
+                "zlily.exe"
+            ],
+            "hash": "cf3fc319b7aaec0e3af82b3dd63dcb58c34107864cf39b0c6d83777793c4293b"
+        }
+    },
+    "homepage": "https://github.com/joshw/zephyrlily",
+    "license": "MPL-1.1",
+    "description": "Terminal UI client for the Lily chat server"
+}
