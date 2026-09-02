@@ -1,26 +1,26 @@
 {
-    "version": "0.11.0",
+    "version": "0.12.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.11.0/zephyrlily_Windows_i386.zip",
+            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.12.0/zephyrlily_Windows_i386.zip",
             "bin": [
                 "zlily.exe"
             ],
-            "hash": "bdf53136296d3d4619e136d85c8b34cd443bbc16baebc25bd55b8e3a8251bedd"
+            "hash": "440fac7718be7be0878e43e81a74aa4e522ba307655c6f4c2487b26e8cb34422"
         },
         "64bit": {
-            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.11.0/zephyrlily_Windows_x86_64.zip",
+            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.12.0/zephyrlily_Windows_x86_64.zip",
             "bin": [
                 "zlily.exe"
             ],
-            "hash": "ec139d2b4fbb844a772856472c463097fdfd1278f7882ab9a40bbcd628f3ef04"
+            "hash": "5c75b279ccd790c4df69c9734d960d1bce190f4fda5973cce20510824165f3a6"
         },
         "arm64": {
-            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.11.0/zephyrlily_Windows_arm64.zip",
+            "url": "https://github.com/joshw/zephyrlily/releases/download/v0.12.0/zephyrlily_Windows_arm64.zip",
             "bin": [
                 "zlily.exe"
             ],
-            "hash": "d0c5c7687907e03fb4c33ffd5b51157a6cf439ab40ce572253c43c2ee938f77f"
+            "hash": "e647ec2afec00a80bbc18dd60ca885fcbbb268bdf7d942af97264dcb5ca85301"
         }
     },
     "homepage": "https://github.com/joshw/zephyrlily",
