@@ -6,21 +6,21 @@
             "bin": [
                 "zlily.exe"
             ],
-            "hash": "0c14a798f0e9af08edb3ec90766edbc8e910b7f16d2ccdcb58ac9014fbf43e09"
+            "hash": "5dee09f52592f947922624ea3fee3bb3bf6641dff93a9018b05b4fe083b31249"
         },
         "64bit": {
             "url": "https://github.com/joshw/zephyrlily/releases/download/v0.13.1/zephyrlily_Windows_x86_64.zip",
             "bin": [
                 "zlily.exe"
             ],
-            "hash": "8d98ff6769fd72f5cdcf55b82e4a1566c25f6711c3af6fc902767d83649ade11"
+            "hash": "f03f667e279e3f1986c582f25eb2a84daab38dfe8c154d360994f501e07d3004"
         },
         "arm64": {
             "url": "https://github.com/joshw/zephyrlily/releases/download/v0.13.1/zephyrlily_Windows_arm64.zip",
             "bin": [
                 "zlily.exe"
             ],
-            "hash": "1537b9a9ed7e4e1a8ecd85b6f6c9c3e420398fde60c5dd070bdf8e8a7c2c14a6"
+            "hash": "e1d2000f747f97f237afc7c66a03f4af5a7dbb24666f948369d73f14accd55c3"
         }
     },
     "homepage": "https://github.com/joshw/zephyrlily",
